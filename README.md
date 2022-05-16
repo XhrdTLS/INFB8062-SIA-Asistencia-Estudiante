@@ -7,18 +7,9 @@ El proyecto considera que el alumno muestre su identificador que corresponde al 
 ## Descripción del código
 
 
+## Anotaciones Importantes
+Para ordenar el versionamiento, se solicita que en primera instancia se suban los cambios a las branchs (ramas) personales, luego hacer pull request para combinar y comprobar la compatibilidad en la rama principal (main-branch)
 
-
-
-
-----
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Para agregar un contenido, se debe colocar la palabra ___Agregar: <descripción>___
+* Para cambio de un contenido, se debe colocar la palabra ___Cambio: <descripción>___
+* Para eliminar un contenido, se debe colocar la palabra ___Eliminar: <descripción>___
