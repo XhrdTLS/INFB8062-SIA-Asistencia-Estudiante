@@ -10,6 +10,6 @@ El proyecto considera que el alumno muestre su identificador que corresponde al 
 ## Anotaciones Importantes
 Para ordenar el versionamiento, se solicita que en primera instancia se suban los cambios a las branchs (ramas) personales, luego hacer pull request para combinar y comprobar la compatibilidad en la rama principal (main-branch)
 
-* Para agregar un contenido, se debe colocar la palabra ___Agregar: <descripción>___
-* Para cambio de un contenido, se debe colocar la palabra ___Cambio: <descripción>___
-* Para eliminar un contenido, se debe colocar la palabra ___Eliminar: <descripción>___
+* Para agregar un contenido, se debe colocar la palabra ___Agrega: <descripción>___
+* Para cambio de un contenido, se debe colocar la palabra ___Cambia: <descripción>___
+* Para eliminar un contenido, se debe colocar la palabra ___Elimina: <descripción>___
