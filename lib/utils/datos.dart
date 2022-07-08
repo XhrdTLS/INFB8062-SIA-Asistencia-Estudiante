@@ -1,0 +1,21 @@
+var credenciales = {
+  '18210767': 'daguirre@utem.cl',
+  '24908540': 'lcastrov@utem.cl',
+  '20288228': 'jdonoso@utem.cl',
+  '19649455': 'nicolas.jaracarvajal@utem.cl',
+  '20328103': 'jjauffret@utem.cl',
+  '22628985': 'bjimenez@utem.cl',
+  '20228056': 'tlillo@utem.cl',
+  '20614853': 'jlopezm@utem.cl',
+  '19857209': 'kmejia@utem.cl',
+  '20329929': 'bmoya@utem.cl',
+  '19925208': 'mauro.munozj@utem.cl',
+  '20064211': 'goyarce@utem.cl',
+  '20592722': 'cparada@utem.cl',
+  '20372796': 'brubiori@utem.cl',
+  '20417193': 'vtoledo@utem.cl',
+  '19779861': 'fvilaza@utem.cl',
+  '20468753': 'avilchescr@utem.cl',
+  '20192505': 'svillalobos@utem.cl',
+  '8697837': 'sara.rojas@utem.cl'
+};
